@@ -1,6 +1,6 @@
 # tequenne
 Code du projet du module Jeux Vidéo à CPE Lyon: implementer un jeu vidéo.
-Le jeu et un jeu de combat ne s’inspirant pas du tout du jeu Tekken 3 sorti par 
+Le jeu est un jeu de combat ne s’inspirant pas du tout du jeu Tekken 3 sorti par 
 Namco sur Playstation en 1998. 
 
 Les auteurs:
@@ -11,8 +11,8 @@ Les auteurs:
 ## Comment le compiler et le lancer
 Dans le dossier des sources du jeu (là où se trouve le Makefile), compiler avec la commande `make`. Lancer ensuite l’exécutable `./tequenne`.  
 
-## Comment le jouer
-Le jeu est designé pour deux joueurs (pas encore d’IA disponible) et se joue avec les touches du clavier.
+## Comment jouer
+Le jeu est designé pour deux joueurs (pas encore d’IA disponible) et se joue avec les touches du clavier (précisées lors du lancement du jeu).
 Dans le jeu on peut se déplacer à gauche ou à droite, sauter pour se déplacer plus vite, se baisser pour esquiver, et donner des coups de poing et coups de pied. 
 
 ## Mode debug 
